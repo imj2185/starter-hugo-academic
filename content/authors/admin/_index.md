@@ -4,7 +4,7 @@ title: Chonghan Lee 이충한
 
 # Full name (for SEO)
 first_name: Chonghan
-last_name: Lrr
+last_name: Lee
 
 # Status emoji
 status:
