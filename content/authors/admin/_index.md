@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Chonghan Lee 이충한
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Chonghan
+last_name: Lrr
 
 # Status emoji
 status:
@@ -18,7 +18,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: The Pennsylvania State University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
